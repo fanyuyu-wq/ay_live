@@ -1,0 +1,17 @@
+.comment {
+    margin-bottom: 20px;
+}
+
+.comment textarea {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    height: 80px;
+    display: block;
+}
+
+.comment input {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+}
